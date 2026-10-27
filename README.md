@@ -28,7 +28,7 @@ Digital marketing learner and online business professional. I work with FLP, cre
 
 | Course | Provider | Status |
 |---|---|---|
-| Digital Marketing Course | [zed king] | Completed |
+| Digital Marketing Course | [zed king] | In progress |
 | Introduction to AI | Microsoft Learn | completed|
 
 ## Connect With Me
